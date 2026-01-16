@@ -1,7 +1,7 @@
 public class Main { 
 	public static void main(String[] args) { 
 
-		System.out.println("Welcome to Git Practice! Features 1 and B merged"); 
+		System.out.println("Welcome to Git Practice! Features A and B merged"); 
 		greet("FeatureA_User"); 
 		greet("FeatureB_User"); }
 
